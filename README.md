@@ -1,2 +1,10 @@
-# vertex-router
-Vertex Router - Handy developer CLI utility engineered by @nne58736-ship-it
+# Vertex Router
+
+A clean CLI tool for quick workflow automation.
+
+Author: [@nne58736-ship-it](https://github.com/nne58736-ship-it)
+
+### Usage
+```bash
+npx vertex-router --help
+```
